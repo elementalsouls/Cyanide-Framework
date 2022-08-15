@@ -1,1 +1,1 @@
-echo "/bin/bash -i"
+/bin/bash -i
